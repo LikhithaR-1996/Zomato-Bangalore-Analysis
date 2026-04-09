@@ -49,7 +49,6 @@ An interactive dashboard was built in Power BI covering:
 Zomato-Bangalore-Analysis/
 │
 ├── Zomato_Bangalore_Analysis.ipynb   # Main analysis notebook
-├── zomato.csv                        # Dataset (Kaggle)
 └── README.md                         # Project documentation
 
 
