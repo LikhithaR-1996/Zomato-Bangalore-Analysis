@@ -28,6 +28,14 @@ failing ones.
 | 📱 Online Order | Minimal impact — only +0.06 rating difference |
 | 📅 Table Booking | Strongest factor — +0.52 rating difference |
 
+## 📊 Power BI Dashboard
+An interactive dashboard was built in Power BI covering:
+- Top 10 Locations by Average Rating
+- Top 10 Cuisines by Average Rating
+- Average Rating by Price Range
+- Impact of Online Order & Table Booking on Rating
+![Dashboard Preview](Dashboard_Screenshot.png)
+
 
 ## 🛠️ Tools & Technologies
 - **Python 3**
