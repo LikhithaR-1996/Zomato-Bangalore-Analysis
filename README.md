@@ -45,12 +45,15 @@ An interactive dashboard was built in Power BI covering:
 
 
 ## 📁 Project Structure
-
 Zomato-Bangalore-Analysis/
 │
-├── Zomato_Bangalore_Analysis.ipynb   # Main analysis notebook
+├── Zomato_Bangalore_Analysis.ipynb    # Main analysis notebook
+├── Zomato-Bangalore-Dashboard.pbix   # Power BI dashboard
+├── zomato_cleaned.csv                # Cleaned dataset
+├── zomato_cuisines.csv               # Exploded cuisines data
+├── zomato_features.csv               # Service features data
+├── Dashboard_Screenshot.png          # Dashboard preview
 └── README.md                         # Project documentation
-
 
 ## 💡 Business Recommendation
 A new restaurant maximises success on Zomato Bangalore by:
