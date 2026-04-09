@@ -65,6 +65,8 @@ A new restaurant maximises success on Zomato Bangalore by:
 - **Source:** [Zomato Bangalore Restaurants — Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 - **Size:** 51,717 rows × 17 columns (raw)
 - **After cleaning:** 41,263 rows × 11 columns
+- **Note:** Download `zomato.csv` from Kaggle and place it 
+  in the same folder as the notebook before running.
 
 
 ## 👩‍💻 About Me
